@@ -1,75 +1,80 @@
 Universal Network Resource Fetcher
-A Bash script for network resource fetching, monitoring, and logging, designed for WSL Kali Linux.
-Features
+A powerful Bash script for network resource fetching, monitoring, and logging, optimized for WSL Kali Linux.
+🌟 Features
 
-Download files from URLs (including Google Drive)
-Check public IP address
-Monitor network interfaces
-Measure latency to multiple hosts
-Scan ports on a host
-Generate Google Drive direct download links
-Perform traceroute to a host
-Download YouTube videos with selectable formats
-List downloaded files
-Check SSL certificates
-Log all activities with timestamps
+File Download: Fetch files from URLs, including Google Drive links.
+Public IP Check: Retrieve your public IP address.
+Network Monitoring: Monitor network interface status and IP assignments.
+Latency Testing: Measure latency to multiple hosts.
+Port Scanning: Scan ports on a specified host using nmap.
+Google Drive Links: Generate direct download links for Google Drive files.
+Traceroute: Perform traceroute to analyze network paths.
+YouTube Video Download: Download YouTube videos with selectable formats using yt-dlp.
+File Listing: Display downloaded files in the output directory.
+SSL Certificate Check: Verify SSL certificate details for a domain.
+Logging: Log all activities with timestamps in resource_fetcher.log.
 
-Requirements
+📋 Requirements
 
 WSL Kali Linux environment
 Installed tools: curl, nmap, yt-dlp, openssl, traceroute
-Internet connection
+Active internet connection
 
-Installation
+🚀 Installation
 
-Clone the repository:git clone hgit clone https://github.com/username/network-resource-fetcher.git
+Clone the repository:git clone https://github.com/ifauzeee/Network-Resource-Fetcher.git
 
 
-Navigate to the project directory:cd universal-network-resource-fetcher
+Navigate to the project directory:cd Network-Resource-Fetcher
 
 
 Make the script executable:chmod +x resource_fetcher.sh
 
 
-Install dependencies (if not already installed):sudo apt update
+Install dependencies:sudo apt update
 sudo apt install curl nmap yt-dlp traceroute openssl
 
 
 
-Usage
+🛠️ Usage
 
 Run the script:./resource_fetcher.sh
 
 
-Select an option from the TUI menu (1-11).
+Choose an option (1-11) from the interactive Text User Interface (TUI).
 Follow the prompts to execute the desired function.
-Logs are saved in resource_fetcher.log in the output directory.
-Downloaded files are stored in the output directory.
+Check the output directory for downloaded files and resource_fetcher.log for logs.
 
-Example
-To download a file:
+Example: Downloading a File
 
 Select option 1 from the menu.
-Enter the URL (e.g., http://example.com/file.txt or a Google Drive link).
-The file will be downloaded to the output directory, and the activity will be logged.
+Enter a URL (e.g., http://example.com/file.txt or a Google Drive link).
+The file will be saved in the output directory, and the activity logged.
 
-Notes
+📝 Notes
 
-Ensure network connectivity before running network-dependent functions.
-For YouTube downloads, use yt-dlp -F <URL> to check available formats if issues arise.
+Ensure network connectivity for functions like downloads and latency checks.
+For YouTube downloads, run yt-dlp -F <URL> to list available formats if errors occur.
 Google Drive downloads require a valid file ID or shareable link.
-Logs are appended to resource_fetcher.log for auditing.
+Logs are appended to resource_fetcher.log for tracking and debugging.
 
-License
-MIT License. See LICENSE for details.
-Contributing
+📄 License
+This project is licensed under the MIT License. See LICENSE for details.
+🤝 Contributing
 
 Fork the repository.
-Create a feature branch (git checkout -b feature-branch).
-Commit changes (git commit -m 'Add feature').
-Push to the branch (git push origin feature-branch).
+Create a feature branch:git checkout -b feature/your-feature
+
+
+Commit your changes:git commit -m "Add your feature"
+
+
+Push to the branch:git push origin feature/your-feature
+
+
 Open a pull request.
 
-Author
-Muhammad Ibnu Fauzi
-Created: June 4, 2025
+👤 Author
+IfauzeeeCreated: June 4, 2025  
+
+⭐ Star this repository if you find it useful!📧 For issues or suggestions, open an issue on GitHub.
