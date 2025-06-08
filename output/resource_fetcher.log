@@ -1,0 +1,147 @@
+[2025-06-04 18:29:06] IP Publik: 182.3.39.141
+[2025-06-04 18:30:04] Koneksi ke ibb.co: BERHASIL
+[2025-06-04 18:30:05] Unduh file B2QzjhXN dari https://ibb.co/B2QzjhXN: BERHASIL
+[2025-06-04 18:30:07] Program ditutup
+[2025-06-04 18:31:39] IP Publik: 182.3.39.141
+[2025-06-04 18:32:21] Program ditutup
+[2025-06-04 18:33:20] Koneksi ke www.google.com: BERHASIL
+[2025-06-04 18:33:21] Unduh file dari https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.id%2FAppearstm-Sandal-Slide-Pria-dan-Wanita-Statham-%2528Gotham-Scream%2529-i.186383400.22852857494&psig=AOvVaw3qWL_ZAv7cJls7xWjAWPFV&ust=1749123185776000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC6m-PV140DFQAAAAAdAAAAABAE: GAGAL
+[2025-06-04 18:35:36] Koneksi ke iili.io: BERHASIL
+[2025-06-04 18:35:37] Unduh file FdBcrn1.png dari https://iili.io/FdBcrn1.png: BERHASIL
+[2025-06-04 18:35:40] Program ditutup
+[2025-06-04 18:37:56] IP Publik: 142.91.98.127
+[2025-06-04 18:38:17] Koneksi ke iili.io: GAGAL
+[2025-06-04 18:39:29] Program ditutup
+[2025-06-04 18:39:50] Antarmuka: lo, Status: UNKNOWN, IP: 127.0.0.1
+10.255.255.254
+[2025-06-04 18:39:50] Antarmuka: eth0, Status: UP, IP: 172.21.215.107
+[2025-06-04 18:39:50] Antarmuka: br-4e88ede5dc84, Status: DOWN, IP: 172.22.0.1
+[2025-06-04 18:39:50] Antarmuka: br-77c198cfe4cf, Status: DOWN, IP: 172.19.0.1
+[2025-06-04 18:39:50] Antarmuka: br-88dd51426f41, Status: DOWN, IP: 172.25.0.1
+[2025-06-04 18:39:50] Antarmuka: br-e91a0786d9d4, Status: DOWN, IP: 172.24.0.1
+[2025-06-04 18:39:50] Antarmuka: br-f2d3e8e2f279, Status: DOWN, IP: 172.18.0.1
+[2025-06-04 18:39:50] Antarmuka: br-fa19db780193, Status: DOWN, IP: 172.20.0.1
+[2025-06-04 18:39:50] Antarmuka: br-202433ccdaaa, Status: DOWN, IP: 172.23.0.1
+[2025-06-04 18:39:50] Antarmuka: docker0, Status: DOWN, IP: 172.17.0.1
+[2025-06-04 18:41:33] Program ditutup
+[2025-06-04 18:41:59] Koneksi ke google.com: GAGAL
+[2025-06-04 18:44:15] Program ditutup
+[2025-06-04 18:45:14] Program ditutup
+[2025-06-04 18:45:41] Generate direct link dari https://drive.google.com/file/d/16DEkbGoJHn2O8mmjI0r4qMf0lcCOGeFC/view?usp=drive_link: https://drive.google.com/uc?export=download&id=16DEkbGoJHn2O8mmjI0r4qMf0lcCOGeFC
+[2025-06-04 18:46:07] Koneksi ke drive.google.com: GAGAL
+[2025-06-04 18:51:14] Generate direct link dari https://drive.google.com/file/d/16DEkbGoJHn2O8mmjI0r4qMf0lcCOGeFC/view?usp=drive_link: https://drive.google.com/uc?export=download&id=16DEkbGoJHn2O8mmjI0r4qMf0lcCOGeFC
+[2025-06-04 18:51:26] Koneksi ke drive.google.com: BERHASIL
+[2025-06-04 18:51:28] Unduh file uc dari https://drive.google.com/uc?export=download&id=16DEkbGoJHn2O8mmjI0r4qMf0lcCOGeFC: BERHASIL
+[2025-06-04 19:05:26] Program ditutup
+[2025-06-04 19:11:02] List file unduhan ditampilkan
+[2025-06-04 19:11:50] Unduh video dari YouTube: https://www.youtube.com/watch?v=G_WaFtXdtt0
+[2025-06-04 19:12:19] Program ditutup
+[2025-06-04 19:16:21] Unduh video dari YouTube: https://www.youtube.com/watch?v=G_WaFtXdtt0
+[2025-06-04 19:16:29] List file unduhan ditampilkan
+[2025-06-04 19:16:59] Cek SSL certificate untuk google.com
+[2025-06-04 19:17:13] Traceroute ke google.com:\n./resource_fetcher.sh: line 148: traceroute: command not found
+[2025-06-04 19:17:33] Program ditutup
+[2025-06-04 19:17:58] Traceroute ke xnxx.com:\ntraceroute to xnxx.com (202.3.218.137), 30 hops max, 60 byte packets
+ 1  172.21.208.1 (172.21.208.1)  0.555 ms  0.503 ms  0.452 ms
+ 2  172.20.10.1 (172.20.10.1)  4.313 ms  2.429 ms  2.413 ms
+ 3  * * *
+ 4  * * *
+ 5  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  75.927 ms *  75.870 ms
+ 6  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  53.309 ms  54.049 ms
+ 7  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  81.141 ms  77.189 ms
+ 8  * * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  81.019 ms
+ 9  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  69.411 ms *
+10  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  67.150 ms *  67.064 ms
+11  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  82.191 ms  82.126 ms  72.281 ms
+12  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  45.697 ms *
+13  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  72.283 ms  60.422 ms
+14  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  66.203 ms  66.190 ms
+15  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  60.375 ms * *
+16  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  72.162 ms *
+17  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  72.142 ms  71.987 ms *
+18  * * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  63.350 ms
+19  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  62.060 ms *
+20  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  55.956 ms *
+21  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  50.786 ms * *
+22  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  43.327 ms  57.708 ms *
+23  * * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  47.180 ms
+24  * * *
+25  * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  60.223 ms *
+26  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  66.326 ms *  60.143 ms
+27  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  66.282 ms * *
+28  * * static-202-3-217-172.telkomsel.net.id (202.3.217.172)  47.386 ms
+29  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  50.981 ms  57.926 ms *
+30  static-202-3-217-172.telkomsel.net.id (202.3.217.172)  51.767 ms  51.743 ms *
+[2025-06-04 19:18:28] Program ditutup
+[2025-06-04 19:27:09] Generated GDrive link untuk ID: https://drive.google.com/file/d/1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB/view?usp=drive_link
+[2025-06-04 19:27:27] Koneksi ke drive.google.com: BERHASIL
+[2025-06-04 19:27:28] Unduh file dari https://drive.google.com/file/d/1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB/view?usp=drive_link: GAGAL
+[2025-06-04 19:27:41] Pilihan tidak valid: clear
+[2025-06-04 19:27:44] Program ditutup
+[2025-06-04 19:28:14] Generated GDrive link untuk ID: 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB
+[2025-06-04 19:28:23] Koneksi ke 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB: GAGAL
+[2025-06-04 19:28:42] Program ditutup
+[2025-06-04 19:28:50] Generated GDrive link untuk ID: https://drive.google.com/file/d/1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB/view
+[2025-06-04 19:29:12] Generated GDrive link untuk ID: 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB
+[2025-06-04 19:29:37] Koneksi ke 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB: GAGAL
+[2025-06-04 19:30:21] Generated GDrive link untuk ID: 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB
+[2025-06-04 19:30:45] Koneksi ke drive.google.com: BERHASIL
+[2025-06-04 19:30:46] Unduh file dari https://drive.google.com/uc?export=download&id=1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB: GAGAL
+[2025-06-04 19:31:40] Koneksi ke drive.google.com: BERHASIL
+[2025-06-04 19:31:40] Unduh file dari https://drive.google.com/uc?export=download&id=1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB: GAGAL
+[2025-06-04 19:33:56] Program ditutup
+[2025-06-04 19:34:14] Koneksi ke drive.google.com: BERHASIL
+[2025-06-04 19:34:24] Unduh file GDrive ID 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB: BERHASIL
+[2025-06-04 19:34:28] Program ditutup
+[2025-06-04 19:34:36] Koneksi ke drive.google.com: BERHASIL
+[2025-06-04 19:34:40] Unduh file GDrive ID 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB: GAGAL
+[2025-06-04 19:35:43] Koneksi ke : GAGAL
+[2025-06-04 19:35:43] Pilihan tidak valid: ┌──(zee㉿IBNU)-[~/network_project]
+[2025-06-04 19:35:43] Pilihan tidak valid: └─$ ./resource_fetcher.sh
+[2025-06-04 19:35:43] Pilihan tidak valid: === Universal Network Resource Fetcher ===
+[2025-06-04 19:35:43] Pilihan tidak valid: 1. Unduh File dari URL
+[2025-06-04 19:35:43] Pilihan tidak valid: 2. Cek IP Publik
+[2025-06-04 19:35:43] Pilihan tidak valid: 3. Pantau Status Antarmuka Jaringan
+[2025-06-04 19:35:43] Pilihan tidak valid: 4. Cek Latensi Jaringan ke Beberapa Host
+[2025-06-04 19:35:43] Pilihan tidak valid: 5. Scan Port pada Host
+[2025-06-04 19:35:43] Pilihan tidak valid: 6. Generate Direct Link Google Drive
+[2025-06-04 19:35:43] Pilihan tidak valid: 7. Traceroute ke Host
+[2025-06-04 19:35:43] Pilihan tidak valid: 8. Unduh Video YouTube
+[2025-06-04 19:35:43] Pilihan tidak valid: 9. Tampilkan File yang Diunduh
+[2025-06-04 19:35:43] Pilihan tidak valid: 10. Cek Sertifikat SSL
+[2025-06-04 19:35:43] Pilihan tidak valid: 11. Keluar
+[2025-06-04 19:35:43] Pilihan tidak valid: Pilih opsi (1-11): 1
+[2025-06-04 19:35:43] Pilihan tidak valid: Masukkan URL file (contoh: http://example.com/file.txt):  https://drive.google.com/uc?export=download&id=1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB
+[2025-06-04 19:35:43] Pilihan tidak valid: Mengecek konektivitas ke drive.google.com...
+[2025-06-04 19:35:43] Pilihan tidak valid: Koneksi ke drive.google.com BERHASIL!
+[2025-06-04 19:35:43] Pilihan tidak valid: Mengunduh file dari https://drive.google.com/uc?export=download&id=1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB...
+[2025-06-04 19:35:43] Pilihan tidak valid: Mendeteksi file dari Google Drive dengan ID: 1mQmNr5G1ZKi6mvPYFJBSW8wU_X-095yB
+[2025-06-04 19:35:43] Pilihan tidak valid: % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2025-06-04 19:35:43] Pilihan tidak valid: Dload  Upload   Total   Spent    Left  Speed
+[2025-06-04 19:35:43] Pilihan tidak valid: 0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+[2025-06-04 19:35:43] Pilihan tidak valid: 0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0Warning: Failed to open the file DSC_9682.JPG: File exists
+[2025-06-04 19:35:43] Pilihan tidak valid: 0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+[2025-06-04 19:35:43] Pilihan tidak valid: curl: (23) client returned ERROR on write of 58 bytes
+[2025-06-04 19:35:45] Pilihan tidak valid: Gagal mengunduh file dari Google Drive!11
+[2025-06-04 19:35:47] Program ditutup
+[2025-06-04 19:37:43] Koneksi ke drive.google.com: BERHASIL
+[2025-06-04 19:37:44] Unduh file GDrive ID : BERHASIL
+[2025-06-04 19:48:25] Program ditutup
+[2025-06-08 15:55:54] Program ditutup
+[2025-06-08 15:56:55] IP Publik: 103.208.206.40
+[2025-06-08 15:57:00] Antarmuka: lo, Status: UNKNOWN, IP: 127.0.0.1
+10.255.255.254
+[2025-06-08 15:57:00] Antarmuka: eth0, Status: UP, IP: 172.21.215.107
+[2025-06-08 15:57:00] Antarmuka: docker0, Status: DOWN, IP: 172.17.0.1
+[2025-06-08 15:57:13] Koneksi ke google.com: BERHASIL
+[2025-06-08 15:57:16] Latensi ke google.com: 15.916 ms
+[2025-06-08 15:57:17] Koneksi ke facebook.com: BERHASIL
+[2025-06-08 15:57:20] Latensi ke facebook.com: 6.034 ms
+[2025-06-08 15:58:18] Cek sertifikat SSL untuk https://ifauzeee.github.io/portofolio/
+[2025-06-08 15:58:28] Cek sertifikat SSL untuk google.com
+[2025-06-08 15:58:50] Pilihan tidak valid: ifauzeee.github.io/portofolio/
+[2025-06-08 15:59:02] Program ditutup
+[2025-06-08 15:59:53] Unduh YouTube: https://www.youtube.com/watch?v=R3GfuzLMPkA dengan format 401 - GAGAL
+[2025-06-08 16:00:51] Program ditutup
+[2025-06-08 16:01:14] Unduh YouTube: https://www.youtube.com/watch?v=R3GfuzLMPkA dengan format 401 - BERHASIL
+[2025-06-08 16:01:19] Program ditutup
