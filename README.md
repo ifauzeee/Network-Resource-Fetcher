@@ -73,10 +73,6 @@ sudo apt install curl nmap yt-dlp traceroute openssl
 - Google Drive downloads require a valid file ID or shareable link
 - Logs are appended to `resource_fetcher.log` for tracking and debugging
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## 👤 Author
 
 **Ifauzeee**  
